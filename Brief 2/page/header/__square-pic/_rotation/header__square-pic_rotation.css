@@ -1,0 +1,12 @@
+@keyframes box {
+    from{
+      transform: rotate(0);
+    }  
+    to{
+      transform: rotate(360deg);
+    }
+  }
+.header__square-pic_rotation   {
+    animation: box 20s linear infinite;
+    overflow: hidden;
+}

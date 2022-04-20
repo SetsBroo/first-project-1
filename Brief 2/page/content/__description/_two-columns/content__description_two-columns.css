@@ -1,0 +1,6 @@
+.content__description_two-columns{
+  margin: auto;
+  width: 80%;
+  min-height: 320px;
+  justify-content: space-between;
+}

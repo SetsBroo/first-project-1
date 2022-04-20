@@ -1,0 +1,8 @@
+.content__feynman_feynman-head{
+    position: absolute;
+    top: 10;
+    text-align: center;
+    left: 375px;
+    width: 730px;
+    z-index: 2;
+  }
